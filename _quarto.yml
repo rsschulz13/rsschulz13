@@ -1,0 +1,16 @@
+project: 
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "Ricarda's Advanced GutHub Notes"
+   background: primary
+    search: true
+  
+format: 
+  html:
+     theme: slate 
+  
+  
+  
+  
