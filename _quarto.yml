@@ -4,7 +4,7 @@ project:
   
 website: 
   title: "Ricarda's Advanced GutHub Notes"
-   background: primary
+  background: primary
    search: true
   
 format: 
