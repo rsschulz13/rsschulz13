@@ -4,7 +4,8 @@ project:
   
 website: 
   title: "Ricarda's Advanced GitHub Notes"
-  background: primary
+  navbar:
+   background: primary
    search: true
   
 format: 
