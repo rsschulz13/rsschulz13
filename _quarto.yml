@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website: 
-  title: "Ricarda's Advanced GutHub Notes"
+  title: "Ricarda's Advanced GitHub Notes"
   background: primary
    search: true
   
